@@ -102,10 +102,8 @@ footer {
     padding: 1rem 0;
     background: #ff69b4;
     color: white;
-    position: fixed;
     width: 100%;
     bottom: 0;
-    animation: fadeInUp 1s ease-in-out;
 }
 
 footer p {
